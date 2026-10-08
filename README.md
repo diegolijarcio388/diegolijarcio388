@@ -23,14 +23,14 @@ I also hold a **Cambridge C1 Advanced English certification**.
 
 ## 🚀 Featured Projects
 
+- **Task Manager API** — Personal backend project in development. REST API built with Java and Spring Boot, featuring CRUD operations, filtering, search, pagination, validation, exception handling and automated tests.  
+  👉 https://github.com/diegolijarcio388/Task-Manager-Api
+
 - **ERP interno CETEMET** — Web application developed during my internship, focused on employee time tracking and permission management.  
   👉 https://github.com/diegolijarcio388/Repositorio-ERP-Practicas
 
 - **ServiHogar — iOS App** — iOS interface and navigation flow developed in Swift as part of my final DAM project.  
   👉 https://github.com/diegolijarcio388/Proyecto-ServiHogar
-
-- **Game of Thrones — Android App** — Kotlin Android application with login, RecyclerView, character details and local JSON data.  
-  👉 https://github.com/diegolijarcio388/Game-of-Thrones-Kotlin
 
 - **Personal Portfolio**  
   👉 https://diegolijarcio388.github.io/portafolio-personal/
