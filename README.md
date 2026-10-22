@@ -15,7 +15,7 @@ I'm a Junior Software Developer and Multiplatform Application Development (DAM) 
 
 During my internship at **CETEMET**, I worked on the development and expansion of an internal ERP module using Astro, JavaScript and Tailwind CSS. Previously, at **CodeArts**, I supported backend development with PHP and Symfony, working also with Docker, SQLite and DynamoDB.
 
-I'm currently strengthening my backend profile with **Java and Spring Boot** through personal projects, focusing on REST APIs, data persistence and layered architecture.
+I'm currently focusing on backend development with **Java and Spring Boot**. I've developed and deployed a REST API featuring database persistence, authentication, automated testing and interactive API documentation.
 
 I also hold a **Cambridge C1 Advanced English certification**.
 
@@ -51,6 +51,7 @@ I also hold a **Cambridge C1 Advanced English certification**.
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -82,6 +83,8 @@ I also hold a **Cambridge C1 Advanced English certification**.
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+  <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
