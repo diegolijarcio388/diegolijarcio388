@@ -23,8 +23,15 @@ I also hold a **Cambridge C1 Advanced English certification**.
 
 ## 🚀 Featured Projects
 
-- **Task Manager API** — Personal backend project in development. REST API built with Java and Spring Boot, featuring CRUD operations, filtering, search, pagination, validation, exception handling and automated tests.  
-  👉 https://github.com/diegolijarcio388/Task-Manager-Api
+
+- **Task Manager API** — Deployed REST API built with **Java 21 and Spring Boot**, featuring CRUD operations, filters, search, pagination, DTO validation, centralized error handling and automated tests with JUnit, Mockito and MockMvc.
+
+  Uses **Spring Security (HTTP Basic)** to protect write operations, **Docker** for containerization and cloud-hosted **MySQL (Aiven)** for persistence. Documented with **Swagger/OpenAPI**.
+
+  🔗 [Source code](https://github.com/diegolijarcio388/Task-Manager-Api) · [Live API / Swagger UI](https://r9tqe3.bot-keep.xyz/swagger-ui/index.html)
+
+  _GET endpoints are public; create, update and delete operations require authentication._
+
 
 - **ERP interno CETEMET** — Web application developed during my internship, focused on employee time tracking and permission management.  
   👉 https://github.com/diegolijarcio388/Repositorio-ERP-Practicas
